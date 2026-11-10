@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\New folder\bin\Debug\net10.0-windows\InventorySystem1.exe
+C:\Users\Administrator\Desktop\New folder\bin\Debug\net10.0-windows\InventorySystem1.deps.json
+C:\Users\Administrator\Desktop\New folder\bin\Debug\net10.0-windows\InventorySystem1.runtimeconfig.json
+C:\Users\Administrator\Desktop\New folder\bin\Debug\net10.0-windows\InventorySystem1.dll
+C:\Users\Administrator\Desktop\New folder\bin\Debug\net10.0-windows\InventorySystem1.pdb
+C:\Users\Administrator\Desktop\New folder\obj\Debug\net10.0-windows\InventorySystem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\New folder\obj\Debug\net10.0-windows\InventorySystem1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\New folder\obj\Debug\net10.0-windows\InventorySystem1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\New folder\obj\Debug\net10.0-windows\InventorySystem1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder\obj\Debug\net10.0-windows\InventorySystem1.dll
+C:\Users\Administrator\Desktop\New folder\obj\Debug\net10.0-windows\refint\InventorySystem1.dll
+C:\Users\Administrator\Desktop\New folder\obj\Debug\net10.0-windows\InventorySystem1.pdb
+C:\Users\Administrator\Desktop\New folder\obj\Debug\net10.0-windows\InventorySystem1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\New folder\obj\Debug\net10.0-windows\ref\InventorySystem1.dll
+C:\Users\Administrator\Desktop\New folder\obj\Debug\net10.0-windows\Inventor.48CD9868.Up2Date
