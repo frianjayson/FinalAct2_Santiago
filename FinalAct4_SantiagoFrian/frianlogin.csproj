@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<AssemblyName>frianlogin</AssemblyName>
+		<RootNamespace>frianlogin</RootNamespace>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Remove="frianlogin.accdb" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Content Include="frianlogin.accdb">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="System.Data.OleDb" Version="8.0.0" />
+	</ItemGroup>
+
+</Project>
